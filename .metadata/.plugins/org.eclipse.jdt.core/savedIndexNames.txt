@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+E:\IdeaProjects\Android-XListView-Warmtel\.metadata\.plugins\org.eclipse.jdt.core
+2641287163.index
+1989887569.index
+4107634385.index
+1328495475.index
