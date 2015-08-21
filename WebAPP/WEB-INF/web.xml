@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+	
+	<servlet>
+		<servlet-name>PagerServlet</servlet-name>
+		<servlet-class>com.scxh.twoclass.servlet.PagerServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>PagerServlet</servlet-name>
+		<url-pattern>/pager</url-pattern>
+	</servlet-mapping>
+
+
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+	</welcome-file-list>
+
+</web-app>
